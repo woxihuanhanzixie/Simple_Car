@@ -1,0 +1,2 @@
+# Simple_Car
+参加校内的小车比赛的基础project，使用HAl库结合cubemx开发，搭配clion编写程序
