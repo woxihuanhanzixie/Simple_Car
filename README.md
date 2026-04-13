@@ -46,7 +46,7 @@
 
 ##  项目展示
 
-| 小车实物 | 蓝牙控制界面 | 动作演示 |
+| 小车实物 | 蓝牙控制界面 |
 | :---: | :---: | :---: |
 | ![实物图](./assets/images/car_real_view.jpg) | ![控制界面](./assets/images/bluetooth_app.jpg) | 
 
