@@ -1,4 +1,5 @@
 # Simple_Car - 基于 STM32 的蓝牙遥控多功能小车
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ##  项目简介
 本项目是一个集运动控制、远程通信、机械臂控制于一体的嵌入式控制系统。旨在通过蓝牙无线操控，实现小车在复杂场景下的灵活移动及物体抓取任务。该项目作为校内机器人竞赛的基础原型，展示了 STM32 HAL 库开发的核心流程及模块化驱动设计思想。
